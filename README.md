@@ -59,7 +59,8 @@ Stop Time 07/03/2024 11:55 AM
 <!--```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```-->
 
 ## Metrics After Hardening / Security Controls
-Will Finish After Independence Day
+**Will Finish After Independence Day**
+<br>
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
 Start Time 
 Stop Time	
