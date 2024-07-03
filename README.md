@@ -55,6 +55,7 @@ Stop Time 07/03/2024 11:55 AM
 | AzureNetworkAnalytics_CL | 1880
 
 ## Attack Maps After Hardening / Security Controls
+**Will Finish After Independence Day**
 
 <!--```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```-->
 
